@@ -10,7 +10,7 @@
 	<description>Commercial Client Onboarding</description>
 	<properties>
 		<version.org.jboss.eap>7.0.0.GA</version.org.jboss.eap>
-		<version.org.kie>6.5.0.Final-redhat-15</version.org.kie>
+		<version.org.kie>7.60.0.Final</version.org.kie>
 		<version.org.freemarker>2.3.19</version.org.freemarker>
 	</properties>
 	<dependencyManagement>
